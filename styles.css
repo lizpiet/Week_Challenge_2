@@ -1,0 +1,97 @@
+
+form {
+    margin: 45px auto;
+    padding: 1em;
+    border: 8px solid #3D001F;
+    border-radius: 12px;
+    color: #801A4C;
+    font-family: helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #F0E6EB;
+    display: block;
+    width: 490px;
+    text-align: left;
+    padding-bottom: 48px;
+    margin-bottom: 3px;
+}
+
+div {
+	margin-top: 25px;
+	margin-left: 44px;
+}
+
+h1 {
+	font-family: "Courier New";
+	font-size: 55px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: black;
+	margin: 5px auto;
+	text-align: center;
+	margin-top: 19px;
+}
+
+fieldset {
+border:none;
+}
+
+.score {
+margin-left: 25px;
+}
+
+#score {
+	color: #801A4C;
+    font-family: helvetica;
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.employeeInfo {
+	list-style: none;
+	font-family: "Courier New";
+	font-size: 21px;
+	margin-top: 25px;
+	margin-left: 125px;
+	display: inline-block;
+
+}
+
+button {
+	margin-left: 25px;
+	margin-top: 25px;
+	font-family: helvetica;
+    font-size: 17px;
+    font-weight: bold;
+    color:#3D001F;
+
+}
+
+#submitButton {	
+	font-weight: bold;
+	font-family: courier;
+	font-size: 45px;
+	margin: 8px;
+	float: left; 
+    width: 75%; 
+    padding: 0 10px; 
+    margin: 5px 0; 
+    text-align: center;
+}
+purple{
+	background-color: purple;
+}
+two{
+	background-color: red;
+}
+three{
+	background-color: blue;
+}
+four{
+	background-color: green;
+}
+five{
+	background-color: orange;
+}
